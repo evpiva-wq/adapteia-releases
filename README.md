@@ -29,7 +29,7 @@ Depois de instalado, o próprio app avisa quando houver uma versão nova (Config
 - IA opcional, com chave própria; o nome do aluno nunca é enviado à IA. Sem IA, o app funciona por completo.
 
 ## Versão de testes
-A versão atual é destinada a testes. Pode conter falhas: use apenas dados fictícios e não cadastre alunos reais sem o consentimento dos responsáveis. Para relatar problemas ou enviar sugestões, abra uma [issue](https://github.com/evpiva-wq/adapteia-releases/issues).
+A versão atual é destinada a testes. Pode conter falhas: use apenas dados fictícios e não cadastre alunos reais sem o consentimento dos responsáveis. Para relatar problemas ou enviar sugestões, use o botão **Fale com o projeto** dentro do app (Configurações) ou escreva para **adapteiapp@gmail.com**, o e-mail oficial do projeto.
 
 ## Sobre este repositório
 Este repositório contém **somente a distribuição** do aplicativo (APKs nas Releases) e a pasta `materiais_apoio/`, lida pelo app. O código-fonte não é publicado aqui.
