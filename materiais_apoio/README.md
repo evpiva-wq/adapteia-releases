@@ -1,6 +1,6 @@
 # Materiais de apoio
 
-Esta pasta é lida diretamente pelo app "AdapteIAme" (tela "Materiais de
+Esta pasta é lida diretamente pelo app "AdapteIA.me" (tela "Materiais de
 apoio" na Home) através da API pública do GitHub — qualquer arquivo colocado
 aqui aparece automaticamente na lista dentro do app, pronto para o professor
 ou responsável baixar.
