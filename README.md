@@ -2,6 +2,8 @@
 
 **Adaptar para incluir.**
 
+**Página do projeto:** https://evpiva-wq.github.io/adapteia-releases/
+
 O AdapteIA.me é uma ferramenta auxiliar da atenção humana: ajuda professores, famílias e profissionais de apoio a adaptar o conteúdo escolar para crianças com disgrafia, autismo, dislexia, TDAH e outras necessidades específicas. A tecnologia prepara o material; a decisão continua sendo de quem conhece a criança.
 
 ## Baixar (Android)
@@ -29,6 +31,8 @@ Depois de instalado, o próprio app avisa quando houver uma versão nova (Config
 - IA opcional, com chave própria; o nome do aluno nunca é enviado à IA. Sem IA, o app funciona por completo.
 
 ## Versão de testes
+Baixe o [Guia do Testador (PDF)](https://evpiva-wq.github.io/adapteia-releases/Guia_do_Testador_AdapteIA.pdf) para um roteiro de cerca de 30 minutos.
+
 A versão atual é destinada a testes. Pode conter falhas: use apenas dados fictícios e não cadastre alunos reais sem o consentimento dos responsáveis. Para relatar problemas ou enviar sugestões, use o botão **Fale com o projeto** dentro do app (Configurações) ou escreva para **adapteiapp@gmail.com**, o e-mail oficial do projeto.
 
 ## Sobre este repositório
