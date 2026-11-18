@@ -36,7 +36,7 @@ O AdapteIA.me está em **fase de primeiros testes com usuários**. Em autoavalia
 Isso significa que **pode haver erros** e que a eficácia pedagógica ainda não foi validada. **Se você encontrar um erro, relate**: dentro do app, em Configurações › Fale com o projeto, ou por e-mail para **adapteiapp@gmail.com**. Conte o que estava fazendo, o que esperava e o que aconteceu, sem enviar fotos nem dados reais de crianças.
 
 ## Versão de testes
-Baixe o [Guia do Testador (PDF)](https://evpiva-wq.github.io/adapteia-releases/Guia_do_Testador_AdapteIA.pdf) para um roteiro de cerca de 30 minutos.
+Baixe o [Guia do Testador ilustrado (PDF, com telas)](https://evpiva-wq.github.io/adapteia-releases/Guia_do_Testador_Ilustrado_AdapteIA.pdf) para um roteiro de cerca de 30 minutos, passo a passo, com capturas reais do app (feitas com dados fictícios). Também há o [roteiro resumido (PDF)](https://evpiva-wq.github.io/adapteia-releases/Guia_do_Testador_AdapteIA.pdf) e a versão em Word, editável, em `materiais_apoio/`.
 
 A versão atual é destinada a testes. Pode conter falhas: use apenas dados fictícios e não cadastre alunos reais sem o consentimento dos responsáveis. Para relatar problemas ou enviar sugestões, use o botão **Fale com o projeto** dentro do app (Configurações) ou escreva para **adapteiapp@gmail.com**, o e-mail oficial do projeto.
 
