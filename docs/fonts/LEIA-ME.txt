@@ -1,0 +1,10 @@
+Fontes usadas na pagina do AdapteIA.me, hospedadas aqui para que a visita
+nao envie o endereco IP do visitante ao Google Fonts.
+
+- Atkinson Hyperlegible (Braille Institute of America) - licenca SIL OFL 1.1
+  Texto da licenca: OFL-Atkinson-Hyperlegible.txt
+- Bricolage Grotesque (The Bricolage Grotesque Project Authors) - licenca SIL OFL 1.1
+  Texto da licenca: OFL-Bricolage-Grotesque.txt
+
+Os arquivos .woff2 sao os subconjuntos "latin" distribuidos pelo Google Fonts
+(origem: https://fonts.google.com/). Nao foram modificados.

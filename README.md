@@ -30,6 +30,11 @@ Depois de instalado, o próprio app avisa quando houver uma versão nova (Config
 - Perfis Profissional, Família e Criança, com PIN opcional.
 - IA opcional, com chave própria; o nome do aluno nunca é enviado à IA. Sem IA, o app funciona por completo.
 
+## Estágio de desenvolvimento
+O AdapteIA.me está em **fase de primeiros testes com usuários**. Em autoavaliação, o app está no **TRL 6 de 9** (protótipo demonstrado em ambiente relevante); o objetivo desta fase é chegar ao TRL 7, com demonstração em ambiente operacional, na rotina real de escolas e famílias. TRL (*Technology Readiness Level*) é uma escala de 1 a 9 de maturidade tecnológica.
+
+Isso significa que **pode haver erros** e que a eficácia pedagógica ainda não foi validada. **Se você encontrar um erro, relate**: dentro do app, em Configurações › Fale com o projeto, ou por e-mail para **adapteiapp@gmail.com**. Conte o que estava fazendo, o que esperava e o que aconteceu, sem enviar fotos nem dados reais de crianças.
+
 ## Versão de testes
 Baixe o [Guia do Testador (PDF)](https://evpiva-wq.github.io/adapteia-releases/Guia_do_Testador_AdapteIA.pdf) para um roteiro de cerca de 30 minutos.
 
